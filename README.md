@@ -6,6 +6,6 @@ tecnologias ultilizadas:
 
 - React, Typescript, Javascript, Sass
 
-![Todo list imagem](https://i.imgur.com/GeUL7ll_d.webp?maxwidth=520&shape=thumb&fidelity=high](https://i.imgur.com/l3qM2Cx.png)
+![imagem](https://i.imgur.com/GeUL7ll_d.webp?maxwidth=520&shape=thumb&fidelity=high](https://i.imgur.com/l3qM2Cx.png)
 
 - Desenvolvido com 💗 por VoidWhiz
