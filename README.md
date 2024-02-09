@@ -1,6 +1,8 @@
 # Todo List
 
-Este projeto foi feito para suas anotações ou lista para fazer
+[Acesse aqui](https://todolistvoidwhizz.netlify.app/)
+
+Este projeto simples foi feito para suas anotações ou lista para fazer
 
 tecnologias ultilizadas:
 
