@@ -6,7 +6,7 @@ tecnologias ultilizadas:
 
 - React, Typescript, Javascript, Sass
 
-- ([https://github.com/vitejs/vite-plugin-react-swc](https://i.imgur.com/GeUL7ll_d.webp?maxwidth=520&shape=thumb&fidelity=high))  for Fast Refresh
+![Descrição da imagem]([link_da_imagem](https://i.imgur.com/GeUL7ll_d.webp?maxwidth=520&shape=thumb&fidelity=high))
 
 ## Expanding the ESLint configuration
 
